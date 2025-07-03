@@ -1,1 +1,1 @@
-Project Link: https://travel-list-8cu7.vercel.app/
+Project Link: https://travel-list-flax.vercel.app/
